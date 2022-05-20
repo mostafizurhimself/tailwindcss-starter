@@ -17,3 +17,5 @@ To run the project, run the following command:
 ```
 npm run dev
 ```
+
+Now, your application is running on http://localhost:3000.
